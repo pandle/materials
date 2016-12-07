@@ -5,7 +5,7 @@ Collaborations for improving the basic code is much appreciated.
 
 ## Prototypes
 
-In the [prototypes](prototypes) file you find a list of repositories.
+In the [prototypes](prototypes.md) file you find a list of repositories.
 Each repository is in a different programming language and it contains the basic fundamental how to start a new repository:
 - installation
 - unit tests (a basic version of Test-driven Development, [TDD](https://en.wikipedia.org/wiki/Test-driven_development))
@@ -13,7 +13,7 @@ Each repository is in a different programming language and it contains the basic
 
 ## Delicious APIs
 
-In the [deliciousAPIs](deliciousAPIs) file you find another list of repositories.
+In the [deliciousAPIs](deliciousAPIs.md) file you find another list of repositories.
 Each repository is in a different programming language and it contains the basic API to connect to [Delicious](https://del.icio.us/rss).
 
 Each repository is based on the relative prototype and it is developed with a [simple guideline](https://github.com/bilardi/see-git-steps) step by step:
