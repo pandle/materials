@@ -1,3 +1,4 @@
 - [bilardi/bash-prototype](https://github.com/bilardi/bash-prototype)
 - [bilardi/php-prototype](https://github.com/bilardi/php-prototype)
 - [bilardi/javascript-prototype](https://github.com/bilardi/javascript-prototype)
+- [bilardi/chrome-extension-prototype](https://github.com/bilardi/chrome-extension-prototype)
