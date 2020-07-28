@@ -5,16 +5,39 @@ Collaborations for improving the basic code is much appreciated.
 
 ## Prototypes
 
-In the [prototypes](prototypes.md) file you find a list of repositories.
-Each repository is in a different programming language and it contains the basic fundamental how to start a new repository:
+In the [prototypes](prototypes.md) file you find a list of repositories:
+each repository is in a different programming language
+and it contains the basic fundamental how to start a new repository
+
 - installation
 - unit tests (a basic version of Test-driven Development, [TDD](https://en.wikipedia.org/wiki/Test-driven_development))
 - and the code
 
+## Saving packages
+
+In the [saving][saving.md] file you find a list of repositories:
+each repository is for a different cloud provider
+and it contains a real Python package for managing the saving on that provider
+
+- installation
+- unit tests
+- and the code
+
+## Tool comparisons
+
+In the [comparisons](comparisons.md) file you find a list of repositories:
+each repository is for a different cloud provider
+and it contains the basic fundamental how to deploy some objects on that provider
+
+- installation
+- deploy
+- and comparison with the other tools
+
 ## Delicious APIs
 
-In the [deliciousAPIs](deliciousAPIs.md) file you find another list of repositories.
-Each repository is in a different programming language and it contains the basic API to connect to [Delicious](https://del.icio.us/rss).
+In the [deliciousAPIs](deliciousAPIs.md) file you find a list of repositories:
+each repository is in a different programming language
+and it contains the basic API to connect to [Delicious](https://del.icio.us/rss).
 
 Each repository is based on the relative prototype and it is developed with a [simple guideline](https://github.com/bilardi/see-git-steps) step by step:
 - the main steps are marked with `step [0-9]*` in the git commit description

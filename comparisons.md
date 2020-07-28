@@ -1,0 +1,3 @@
+- [bilardi/aws-tool-comparison](https://github.com/bilardi/aws-tool-comparison)
+- [bilardi/gcp-tool-comparison](https://github.com/bilardi/gcp-tool-comparison)
+- [bilardi/azure-tool-comparison](https://github.com/bilardi/azure-tool-comparison)
