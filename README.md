@@ -15,7 +15,7 @@ and it contains the basic fundamental how to start a new repository
 
 ## Saving packages
 
-In the [saving][saving.md] file you find a list of repositories:
+In the [saving](saving.md) file you find a list of repositories:
 each repository is for a different cloud provider
 and it contains a real Python package for managing the saving on that provider
 
