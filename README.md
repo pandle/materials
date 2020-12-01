@@ -13,6 +13,16 @@ and it contains the basic fundamental how to start a new repository
 - unit tests (a basic version of Test-driven Development, [TDD](https://en.wikipedia.org/wiki/Test-driven_development))
 - and the code
 
+## CI/CD
+
+In the [CI/CD](cicd.md) file you find a list of repositories:
+each repository is for a different cloud provider
+and it contains a real Python package for deploying a simple pipeline
+
+- installation
+- unit tests
+- and the code for deploying a pipeline (a basic version of Continuous Integration and Continuous Delivery / Deployment, [CI/CD](https://en.wikipedia.org/wiki/CI/CD))
+
 ## Saving packages
 
 In the [saving](saving.md) file you find a list of repositories:
