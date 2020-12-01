@@ -1,0 +1,3 @@
+- [bilardi/aws-simple-pipeline](https://github.com/bilardi/aws-simple-pipeline)
+- [bilardi/gcp-simple-pipeline](https://github.com/bilardi/gcp-simple-pipeline)
+- [bilardi/azure-simple-pipeline](https://github.com/bilardi/azure-simple-pipeline)
