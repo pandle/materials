@@ -1,6 +1,6 @@
 # Materials
 
-Code, guidelines, and much more.
+Code, guidelines, and much more. Here you can find the link of each repository maintained and the relative [readthedocs link](https://readthedocs.org/profiles/bilardi/).
 Collaborations for improving the basic code is much appreciated.
 
 ## Prototypes
