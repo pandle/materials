@@ -3,3 +3,4 @@
 - [bilardi/javascript-prototype](https://github.com/bilardi/javascript-prototype)
 - [bilardi/chrome-extension-prototype](https://github.com/bilardi/chrome-extension-prototype)
 - [bilardi/python-prototype](https://github.com/bilardi/python-prototype)
+- [bilardi/typescript-prototype](https://github.com/bilardi/typescript-prototype)
